@@ -1,0 +1,8 @@
+# pthon
+*.pyc
+
+# virtualenv
+venv
+
+# PyCharm
+.idea
